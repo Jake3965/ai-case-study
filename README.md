@@ -12,7 +12,7 @@ With Distiller, you’ll always know what’s in the bottle before you spend a c
 
 The company’s mission is to provide you with the intelligence to determine if what’s inside the bottle is something you will enjoy.
 
-#### Name of Company
+#### Name of Company?
 
 [Distiller](https://distiller.com/) currently offers three apps utilizing AI: Distiller, Flasky, and GlassEye. The [Distiller app](https://distiller.com/articles/using-flavor-search) boasts a database of over 50,000 bottles of distilled spirits, each with a review, rank, and flavor profile. You can use the free app to search for various bottles in their database. The Pro version allows you to select your personal flavor profiles from a list of over 80, and the app will recommend specific bottles that align with your preferences.
 
