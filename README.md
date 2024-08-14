@@ -1,6 +1,8 @@
-![](media/626a674bbf696ce9d898113ce74b9cde.png) \# Can I pour you a drink?
+![](media/626a674bbf696ce9d898113ce74b9cde.png) \
 
-\#\# Overview and Origin
+# Can I pour you a drink?
+
+## Overview and Origin
 
 In recent years, the American whiskey scene has experienced a 9.4% increase in sales from 2020 to 2022. The global whiskey market is projected to reach \$85 billion by 2028, with recorded world whiskey sales of \$66.5 billion in 2022. As production and sales continue to grow, competition among distilleries intensifies, with new distilleries entering the market. From 2000 to 2022, the U.S. added 1,015 new whiskey distilleries, and as of 2022, 95.1% of all whiskey distilleries were less than 22 years old.
 
